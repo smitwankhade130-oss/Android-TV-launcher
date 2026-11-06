@@ -10,3 +10,7 @@ Section: What it does. The home screen has six main apps in a sliding row: YouTu
 Section: Android 9 version. Built and tested only on Android 9. On other versions, some things, like the refresh button and input switching, may behave differently.
 
 Section: What's next. This is version one, and I'm planning to keep upgrading it. The next big update is swappable home screen apps, so you can pick your own six. I'm aiming for the next few weeks, but no promises, since I'm learning as I build.
+
+<img width="4032" height="3016" alt="IMG_20261106_131353" src="https://github.com/user-attachments/assets/3309218a-ec2b-4f35-9014-667d7256bc19" />
+<img width="4032" height="3016" alt="IMG_20261106_131319" src="https://github.com/user-attachments/assets/17e0f8e2-d902-475a-9ca7-5d137c653ce7" />
+
